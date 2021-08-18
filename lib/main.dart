@@ -51,7 +51,7 @@ class UserId extends StatelessWidget {
                 letterSpacing: 2.0,
               ),
             ),
-            Text("HCl Technologies",
+            Text("HCL Technologies",
               style: TextStyle(
                   color: Colors.amberAccent,
                   letterSpacing: 2.0,
@@ -85,7 +85,7 @@ class UserId extends StatelessWidget {
                 Text("dhineshkumar.kathirvel@gmail.com",
                   style: TextStyle(
                     color: Colors.grey[400],
-                    fontSize: 16.0,
+                    fontSize: 14.0,
                     letterSpacing: 1.0
                   ),
                 )
